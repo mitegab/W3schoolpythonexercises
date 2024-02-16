@@ -14,3 +14,7 @@ print(x)
 x = 5
 y=10
 print(x+y)
+#exercise 4
+#Create a variable called z, assign x + y to it, and display the result.
+z = x + y
+print(z)
