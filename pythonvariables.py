@@ -18,3 +18,9 @@ print(x+y)
 #Create a variable called z, assign x + y to it, and display the result.
 z = x + y
 print(z)
+#exercise 5
+#Insert the correct syntax to assign values to multiple variables in one line:
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
