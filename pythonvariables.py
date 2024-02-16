@@ -30,4 +30,11 @@ x = y = z = "Orange"
 print(x)
 print(y)
 print(z)
-
+#exercise 7
+#Insert the correct keyword to make the variable xx belong to the global scope.
+xx = "awesome"
+def myfunc():
+  global xx
+  xx = "fantastic"
+myfunc()
+print(xx)
